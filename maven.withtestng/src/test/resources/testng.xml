@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="integratemvnwithtestng">
+  <test name="imwt" >
+    <classes>
+       <class name="com.integratemvnwithtestng.AppTest" />
+    </classes>
+  </test>
+</suite>
