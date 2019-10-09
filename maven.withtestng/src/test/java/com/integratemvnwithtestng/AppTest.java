@@ -13,7 +13,7 @@ public class AppTest
    @Test
    public void simplechk(){
 	   
-	   System.out.println("simple check");
+	   System.out.println("simple check1");
 	   
    }
 }
